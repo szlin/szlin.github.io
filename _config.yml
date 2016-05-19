@@ -34,11 +34,11 @@ closing-para: Feel free to get in touch. Cheers!
 
 # on all pages (and the first three you list display with greeting, if included)
 social:
+  facebook-official: https://www.facebook.com/groups/debian.tw
   twitter: https://twitter.com/arkadianriver
   github: https://github.com/arkadianriver
   linkedin-square: https://linkedin.com/in/arkadianriver
-  facebook-official: https://facebook.com/gary.faircloth
-  google-plus-square: https://plus.google.com/u/0/+GaryFaircloth
+  google-plus-square: https://plus.google.com/communities/106482636420342329539
   email: /contact/
   #flickr:
   #instagram:
