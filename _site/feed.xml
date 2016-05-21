@@ -5,9 +5,88 @@
     <description>Debian  &amp;#x2192; 致力於創建一個自由作業系統</description>
     <link>http://www.debian.org.tw//</link>
     <atom:link href="http://www.debian.org.tw//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 21 May 2016 18:37:39 +0800</pubDate>
-    <lastBuildDate>Sat, 21 May 2016 18:37:39 +0800</lastBuildDate>
-    <generator>Jekyll v3.1.3</generator>
+    <pubDate>Sat, 21 May 2016 20:48:59 +0800</pubDate>
+    <lastBuildDate>Sat, 21 May 2016 20:48:59 +0800</lastBuildDate>
+    <generator>Jekyll v3.1.5</generator>
+    
+      <item>
+        <title>Last topic in group</title>
+        <description>&lt;p&gt;This about sums it all up.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 21 May 2016 00:02:00 +0800</pubDate>
+        <link>http://www.debian.org.tw//topics/my%20topic%20group/subcattest-topic3.html</link>
+        <guid isPermaLink="true">http://www.debian.org.tw//topics/my%20topic%20group/subcattest-topic3.html</guid>
+        
+        
+        <category>topics</category>
+        
+        <category>my topic group</category>
+        
+      </item>
+    
+      <item>
+        <title>Test topic 2</title>
+        <description>&lt;p&gt;Yada yada and more yada.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 21 May 2016 00:01:00 +0800</pubDate>
+        <link>http://www.debian.org.tw//topics/my%20topic%20group/subcattest-topic2.html</link>
+        <guid isPermaLink="true">http://www.debian.org.tw//topics/my%20topic%20group/subcattest-topic2.html</guid>
+        
+        
+        <category>topics</category>
+        
+        <category>my topic group</category>
+        
+      </item>
+    
+      <item>
+        <title>My Topic Group</title>
+        <description>&lt;p&gt;Here we go.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 21 May 2016 00:00:00 +0800</pubDate>
+        <link>http://www.debian.org.tw//topics/my topic group/</link>
+        <guid isPermaLink="true">http://www.debian.org.tw//topics/my topic group/</guid>
+        
+        
+        <category>topics</category>
+        
+        <category>my topic group</category>
+        
+      </item>
+    
+      <item>
+        <title>second featured post</title>
+        <description>&lt;p&gt;Mining operations are extremely hazardous and take place in unpredictable environments. 
+In fact, mining operations are always in a state of change, with frequent expansions and changes to the drilling site and internal passageways.
+A leading mine operator in eastern Europe decided to implement a reliable remote IP-based communication networking system for control and monitoring.&lt;/p&gt;
+
+</description>
+        <pubDate>Sat, 21 May 2016 00:00:00 +0800</pubDate>
+        <link>http://www.debian.org.tw//topics/a-featured-post2.html</link>
+        <guid isPermaLink="true">http://www.debian.org.tw//topics/a-featured-post2.html</guid>
+        
+        <category>featured</category>
+        
+        
+        <category>topics</category>
+        
+      </item>
+    
+      <item>
+        <title>a test featured post</title>
+        <description>&lt;p&gt;Moxa’s Industrial Ethernet Solutions are tailor-made to unlock automation network convergence for demanding industrial applications. With help from Moxa solutions, multiple industrial networks can be unified into a single integrated Ethernet-centric solution that includes wired, wireless, and security connectivity. The outstanding performance and stability of Moxa’s solutions form a trusted backbone for any business. With worldwide experience in product integration, Moxa also specializes in providing solutions for a variety of vertical markets, especially rail, ITS, smart grid, marine, oil and gas, and process automation.&lt;/p&gt;
+
+</description>
+        <pubDate>Sat, 21 May 2016 00:00:00 +0800</pubDate>
+        <link>http://www.debian.org.tw//topics/a-featured-post1.html</link>
+        <guid isPermaLink="true">http://www.debian.org.tw//topics/a-featured-post1.html</guid>
+        
+        <category>featured</category>
+        
+        
+        <category>topics</category>
+        
+      </item>
     
   </channel>
 </rss>
