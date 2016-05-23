@@ -2,49 +2,79 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
       <loc>http://www.debian.org.tw//</loc>
-      <lastmod>2016-05-19T11:34:21+08:00</lastmod>
+      <lastmod>2016-05-23T16:49:43+08:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>1.0</priority>
     </url>
     <url>
+      <loc>http://www.debian.org.tw//topics/my%20topic%20group/subcattest-topic3.html</loc>
+        <lastmod>2016-05-21T00:02:00+08:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+      <loc>http://www.debian.org.tw//topics/my%20topic%20group/subcattest-topic2.html</loc>
+        <lastmod>2016-05-21T00:01:00+08:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+      <loc>http://www.debian.org.tw//topics/my topic group/</loc>
+        <lastmod>2016-05-21T00:00:00+08:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+      <loc>http://www.debian.org.tw//topics/a-featured-post2.html</loc>
+        <lastmod>2016-05-21T00:00:00+08:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+      <loc>http://www.debian.org.tw//topics/a-featured-post1.html</loc>
+        <lastmod>2016-05-21T00:00:00+08:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
       <loc>http://www.debian.org.tw//contact-success/</loc>
-        <lastmod>2016-05-19T11:34:21+08:00</lastmod>
+        <lastmod>2016-05-23T16:49:43+08:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
     </url>
     <url>
       <loc>http://www.debian.org.tw//contact-success/</loc>
-        <lastmod>2016-05-19T11:34:21+08:00</lastmod>
+        <lastmod>2016-05-23T16:49:43+08:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
     </url>
     <url>
       <loc>http://www.debian.org.tw//contact/</loc>
-        <lastmod>2016-05-19T11:34:21+08:00</lastmod>
+        <lastmod>2016-05-23T16:49:43+08:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
     </url>
     <url>
       <loc>http://www.debian.org.tw//credits/</loc>
-        <lastmod>2016-05-19T11:34:21+08:00</lastmod>
+        <lastmod>2016-05-23T16:49:43+08:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
     </url>
     <url>
       <loc>http://www.debian.org.tw//</loc>
-        <lastmod>2016-05-19T11:34:21+08:00</lastmod>
+        <lastmod>2016-05-23T16:49:43+08:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
     </url>
     <url>
       <loc>http://www.debian.org.tw//topics/</loc>
-        <lastmod>2016-05-19T11:34:21+08:00</lastmod>
+        <lastmod>2016-05-23T16:49:43+08:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
     </url>
     <url>
       <loc>http://www.debian.org.tw//works/</loc>
-        <lastmod>2016-05-19T11:34:21+08:00</lastmod>
+        <lastmod>2016-05-23T16:49:43+08:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
     </url>
