@@ -14,7 +14,7 @@
 title: Debian Taiwan Community 臺灣社群
 description: Debian  &#x2192; 致力於創建一個自由作業系統
 owner:
-  name: SZ Lin # 
+  name: Debian 臺灣社群 # 
   email: szlin@cs.nctu.edu.tw
   url: http://szlin.wordpress.com
 first_published: 2016 # if migrating another site, the year of your first publish
@@ -29,18 +29,20 @@ greeting:
 # - title for your blog's featured posts
 features-title: Featured topics
 # - displayed at the bottom
-closing-head: Thanks for visiting
-closing-para: Feel free to get in touch. Cheers!
+closing-head: 加入我們
+closing-para: 一起為臺灣 Debian 社群貢獻!
 
 # on all pages (and the first three you list display with greeting, if included)
 social:
   facebook-official: https://www.facebook.com/groups/debian.tw
-  twitter: https://twitter.com/arkadianriver
-  github: https://github.com/arkadianriver
-  linkedin-square: https://linkedin.com/in/arkadianriver
+  users: http://moto.debian.tw
+  paper-plane-o: https://telegram.me/joinchat/AjVXxgN3ndobAH0cFp28WQ
   google-plus-square: https://plus.google.com/communities/106482636420342329539
+  github: https://github.com/linux-taiwan/www.debian.org.tw
   email: /contact/
+  debian-release: https://www.debian.org/releases/jessie/
   #flickr:
+  #twitter: 
   #instagram:
   #youtube-square:
   #spotify:
@@ -54,6 +56,7 @@ social:
   #soundcloud:
   #deviantart:
   #angellist:
+  #linkedin-square: https://linkedin.com/in/arkadianriver
   #tumblr-square:
   #stackexchange:
   #weibo:
